@@ -1,0 +1,2756 @@
+
+[2020-09-08 08:38:01] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:38:01] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 08:38:01] 
+INFO: The block size is empty.
+
+[2020-09-08 08:38:01] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:38:01] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:38:01] 
+仅限产品试用，禁止商用
+
+[2020-09-08 08:38:01] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 08:38:01] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 08:38:02] 
+INFO: cluster members:null
+
+[2020-09-08 08:38:02] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 08:38:02] 
+INFO: Report Center Config File: /WEB-INF/reportCenter.xml
+
+[2020-09-08 08:38:02] 
+INFO: get home path :
+
+[2020-09-08 08:38:02] 
+SEVERE: please config <home> tag in reportCenter.xml
+
+[2020-09-08 08:38:03] 
+DEBUG: center initialized
+
+[2020-09-08 08:38:03] 
+INFO: DL System initing......
+
+[2020-09-08 08:38:03] 
+INFO: DL System initialized......
+
+[2020-09-08 08:38:03] 
+INFO: Guide initing......
+
+[2020-09-08 08:38:03] 
+INFO: Guide initialized......
+
+[2020-09-08 08:43:43] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 08:43:43] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 08:43:43] 
+INFO: 报表图片处理......
+
+[2020-09-08 08:43:43] 
+INFO: 计算结束！
+
+[2020-09-08 08:44:46] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:44:46] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 08:44:46] 
+INFO: The block size is empty.
+
+[2020-09-08 08:44:46] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:44:46] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:44:46] 
+仅限产品试用，禁止商用
+
+[2020-09-08 08:44:46] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 08:44:46] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 08:44:47] 
+INFO: cluster members:null
+
+[2020-09-08 08:44:47] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 08:44:47] 
+INFO: Report Center Config File: /WEB-INF/reportCenter.xml
+
+[2020-09-08 08:44:47] 
+INFO: get home path :
+
+[2020-09-08 08:44:47] 
+SEVERE: please config <home> tag in reportCenter.xml
+
+[2020-09-08 08:44:47] 
+DEBUG: center initialized
+
+[2020-09-08 08:44:47] 
+INFO: DL System initing......
+
+[2020-09-08 08:44:47] 
+INFO: DL System initialized......
+
+[2020-09-08 08:44:47] 
+INFO: Guide initing......
+
+[2020-09-08 08:44:47] 
+INFO: Guide initialized......
+
+[2020-09-08 08:44:52] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 08:44:52] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 08:44:52] 
+INFO: 报表图片处理......
+
+[2020-09-08 08:44:52] 
+INFO: 计算结束！
+
+[2020-09-08 08:45:18] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 08:45:18] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 08:45:18] 
+INFO: 报表图片处理......
+
+[2020-09-08 08:45:18] 
+INFO: 计算结束！
+
+[2020-09-08 08:45:35] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:45:35] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 08:45:35] 
+INFO: The block size is empty.
+
+[2020-09-08 08:45:35] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:45:35] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:45:35] 
+仅限产品试用，禁止商用
+
+[2020-09-08 08:45:35] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 08:45:35] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 08:45:36] 
+INFO: cluster members:null
+
+[2020-09-08 08:45:36] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 08:45:36] 
+INFO: Report Center Config File: /WEB-INF/reportCenter.xml
+
+[2020-09-08 08:45:36] 
+INFO: get home path :
+
+[2020-09-08 08:45:36] 
+SEVERE: please config <home> tag in reportCenter.xml
+
+[2020-09-08 08:45:36] 
+DEBUG: center initialized
+
+[2020-09-08 08:45:36] 
+INFO: DL System initing......
+
+[2020-09-08 08:45:36] 
+INFO: DL System initialized......
+
+[2020-09-08 08:45:36] 
+INFO: Guide initing......
+
+[2020-09-08 08:45:36] 
+INFO: Guide initialized......
+
+[2020-09-08 08:46:19] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 08:46:20] 
+INFO: 下面开始打出sql
+
+[2020-09-08 08:46:20] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 08:46:20] 
+INFO: arg0: null
+
+[2020-09-08 08:46:20] 
+INFO: arg1: null
+
+[2020-09-08 08:46:20] 
+INFO: arg2: default
+
+[2020-09-08 08:46:20] 
+INFO: arg3: default
+
+[2020-09-08 08:46:20] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 08:46:20] 
+INFO: 报表图片处理......
+
+[2020-09-08 08:46:20] 
+INFO: 计算结束！
+
+[2020-09-08 08:48:02] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:48:02] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 08:48:02] 
+INFO: The block size is empty.
+
+[2020-09-08 08:48:02] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:48:02] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:48:02] 
+仅限产品试用，禁止商用
+
+[2020-09-08 08:48:02] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 08:48:02] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 08:48:04] 
+INFO: cluster members:null
+
+[2020-09-08 08:48:04] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 08:48:04] 
+INFO: Report Center Config File: /WEB-INF/reportCenter.xml
+
+[2020-09-08 08:48:04] 
+INFO: get home path :
+
+[2020-09-08 08:48:04] 
+SEVERE: please config <home> tag in reportCenter.xml
+
+[2020-09-08 08:48:04] 
+DEBUG: center initialized
+
+[2020-09-08 08:48:04] 
+INFO: DL System initing......
+
+[2020-09-08 08:48:04] 
+INFO: DL System initialized......
+
+[2020-09-08 08:48:04] 
+INFO: Guide initing......
+
+[2020-09-08 08:48:04] 
+INFO: Guide initialized......
+
+[2020-09-08 08:48:32] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 08:48:32] 
+INFO: 下面开始打出sql
+
+[2020-09-08 08:48:32] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 08:48:32] 
+INFO: arg0: null
+
+[2020-09-08 08:48:32] 
+INFO: arg1: null
+
+[2020-09-08 08:48:32] 
+INFO: arg2: default
+
+[2020-09-08 08:48:32] 
+INFO: arg3: default
+
+[2020-09-08 08:48:33] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 08:48:33] 
+INFO: 报表图片处理......
+
+[2020-09-08 08:48:33] 
+INFO: 计算结束！
+
+[2020-09-08 08:50:00] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:50:00] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 08:50:00] 
+INFO: The block size is empty.
+
+[2020-09-08 08:50:00] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:50:00] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:50:00] 
+仅限产品试用，禁止商用
+
+[2020-09-08 08:50:00] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 08:50:00] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 08:50:01] 
+INFO: cluster members:null
+
+[2020-09-08 08:50:01] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 08:50:01] 
+INFO: Report Center Config File: /WEB-INF/reportCenter.xml
+
+[2020-09-08 08:50:01] 
+INFO: get home path :
+
+[2020-09-08 08:50:01] 
+SEVERE: please config <home> tag in reportCenter.xml
+
+[2020-09-08 08:50:01] 
+DEBUG: center initialized
+
+[2020-09-08 08:50:01] 
+INFO: DL System initing......
+
+[2020-09-08 08:50:01] 
+INFO: DL System initialized......
+
+[2020-09-08 08:50:01] 
+INFO: Guide initing......
+
+[2020-09-08 08:50:01] 
+INFO: Guide initialized......
+
+[2020-09-08 08:51:13] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 08:51:13] 
+INFO: 下面开始打出sql
+
+[2020-09-08 08:51:13] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 08:51:13] 
+INFO: arg0: null
+
+[2020-09-08 08:51:13] 
+INFO: arg1: null
+
+[2020-09-08 08:51:13] 
+INFO: arg2: default
+
+[2020-09-08 08:51:13] 
+INFO: arg3: default
+
+[2020-09-08 08:51:14] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 08:51:14] 
+INFO: 报表图片处理......
+
+[2020-09-08 08:51:14] 
+INFO: 计算结束！
+
+[2020-09-08 08:52:36] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:52:36] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 08:52:36] 
+INFO: The block size is empty.
+
+[2020-09-08 08:52:36] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:52:36] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:52:36] 
+仅限产品试用，禁止商用
+
+[2020-09-08 08:52:36] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 08:52:36] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 08:52:37] 
+INFO: cluster members:null
+
+[2020-09-08 08:52:37] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 08:52:37] 
+INFO: Report Center Config File: /WEB-INF/reportCenter.xml
+
+[2020-09-08 08:52:37] 
+INFO: get home path :
+
+[2020-09-08 08:52:37] 
+SEVERE: please config <home> tag in reportCenter.xml
+
+[2020-09-08 08:52:37] 
+DEBUG: center initialized
+
+[2020-09-08 08:52:37] 
+INFO: DL System initing......
+
+[2020-09-08 08:52:37] 
+INFO: DL System initialized......
+
+[2020-09-08 08:52:37] 
+INFO: Guide initing......
+
+[2020-09-08 08:52:37] 
+INFO: Guide initialized......
+
+[2020-09-08 08:52:48] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 08:52:49] 
+INFO: 下面开始打出sql
+
+[2020-09-08 08:52:49] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 08:52:49] 
+INFO: arg0: null
+
+[2020-09-08 08:52:49] 
+INFO: arg1: null
+
+[2020-09-08 08:52:49] 
+INFO: arg2: default
+
+[2020-09-08 08:52:49] 
+INFO: arg3: default
+
+[2020-09-08 08:52:49] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 08:52:49] 
+INFO: 报表图片处理......
+
+[2020-09-08 08:52:49] 
+INFO: 计算结束！
+
+[2020-09-08 08:55:35] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:55:35] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 08:55:35] 
+INFO: The block size is empty.
+
+[2020-09-08 08:55:35] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:55:35] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 08:55:35] 
+仅限产品试用，禁止商用
+
+[2020-09-08 08:55:35] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 08:55:35] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 08:55:36] 
+INFO: cluster members:null
+
+[2020-09-08 08:55:36] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 08:55:36] 
+INFO: Report Center Config File: /WEB-INF/reportCenter.xml
+
+[2020-09-08 08:55:36] 
+INFO: get home path :
+
+[2020-09-08 08:55:36] 
+SEVERE: please config <home> tag in reportCenter.xml
+
+[2020-09-08 08:55:36] 
+DEBUG: center initialized
+
+[2020-09-08 08:55:36] 
+INFO: DL System initing......
+
+[2020-09-08 08:55:36] 
+INFO: DL System initialized......
+
+[2020-09-08 08:55:36] 
+INFO: Guide initing......
+
+[2020-09-08 08:55:36] 
+INFO: Guide initialized......
+
+[2020-09-08 08:55:44] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 08:55:44] 
+INFO: 下面开始打出sql
+
+[2020-09-08 08:55:44] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 08:55:44] 
+INFO: arg0: null
+
+[2020-09-08 08:55:44] 
+INFO: arg1: null
+
+[2020-09-08 08:55:44] 
+INFO: arg2: default
+
+[2020-09-08 08:55:44] 
+INFO: arg3: default
+
+[2020-09-08 08:55:45] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 08:55:45] 
+INFO: 报表图片处理......
+
+[2020-09-08 08:55:45] 
+INFO: 计算结束！
+
+[2020-09-08 09:01:03] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 09:01:03] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 09:01:03] 
+INFO: The block size is empty.
+
+[2020-09-08 09:01:03] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 09:01:03] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 09:01:03] 
+仅限产品试用，禁止商用
+
+[2020-09-08 09:01:03] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 09:01:03] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 09:01:06] 
+INFO: cluster members:null
+
+[2020-09-08 09:01:06] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 09:01:06] 
+INFO: Report Center Config File: D:\dev\valhalla\src\main\resources\reportCenter.xml
+
+[2020-09-08 09:01:06] 
+INFO: DL System initing......
+
+[2020-09-08 09:01:06] 
+INFO: DL System initialized......
+
+[2020-09-08 09:01:06] 
+INFO: Guide initing......
+
+[2020-09-08 09:01:06] 
+INFO: Guide initialized......
+
+[2020-09-08 09:01:18] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 09:01:19] 
+INFO: 下面开始打出sql
+
+[2020-09-08 09:01:19] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 09:01:19] 
+INFO: arg0: null
+
+[2020-09-08 09:01:19] 
+INFO: arg1: null
+
+[2020-09-08 09:01:19] 
+INFO: arg2: default
+
+[2020-09-08 09:01:19] 
+INFO: arg3: default
+
+[2020-09-08 09:01:20] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 09:01:20] 
+INFO: 报表图片处理......
+
+[2020-09-08 09:01:20] 
+INFO: 计算结束！
+
+[2020-09-08 09:24:02] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 09:24:02] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 09:24:02] 
+INFO: The block size is empty.
+
+[2020-09-08 09:24:02] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 09:24:02] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 09:24:02] 
+仅限产品试用，禁止商用
+
+[2020-09-08 09:24:02] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 09:24:02] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 09:24:03] 
+INFO: cluster members:null
+
+[2020-09-08 09:24:03] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 09:24:03] 
+INFO: Report Center Config File: D:\dev\valhalla\src\main\resources\reportCenter.xml
+
+[2020-09-08 09:24:03] 
+INFO: DL System initing......
+
+[2020-09-08 09:24:03] 
+INFO: DL System initialized......
+
+[2020-09-08 09:24:03] 
+INFO: Guide initing......
+
+[2020-09-08 09:24:03] 
+INFO: Guide initialized......
+
+[2020-09-08 09:26:54] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 09:26:55] 
+INFO: 下面开始打出sql
+
+[2020-09-08 09:26:55] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 09:26:55] 
+INFO: arg0: null
+
+[2020-09-08 09:26:55] 
+INFO: arg1: null
+
+[2020-09-08 09:26:55] 
+INFO: arg2: default
+
+[2020-09-08 09:26:55] 
+INFO: arg3: default
+
+[2020-09-08 09:26:55] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 09:26:55] 
+INFO: 报表图片处理......
+
+[2020-09-08 09:26:55] 
+INFO: 计算结束！
+
+[2020-09-08 09:28:11] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 09:28:11] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 09:28:11] 
+INFO: The block size is empty.
+
+[2020-09-08 09:28:11] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 09:28:11] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 09:28:11] 
+仅限产品试用，禁止商用
+
+[2020-09-08 09:28:11] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 09:28:11] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 09:28:12] 
+INFO: cluster members:null
+
+[2020-09-08 09:28:12] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 09:28:12] 
+INFO: Report Center Config File: D:\dev\valhalla\src\main\resources\reportCenter.xml
+
+[2020-09-08 09:28:12] 
+INFO: DL System initing......
+
+[2020-09-08 09:28:12] 
+INFO: DL System initialized......
+
+[2020-09-08 09:28:12] 
+INFO: Guide initing......
+
+[2020-09-08 09:28:12] 
+INFO: Guide initialized......
+
+[2020-09-08 09:31:47] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 09:31:47] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 09:31:47] 
+INFO: The block size is empty.
+
+[2020-09-08 09:31:47] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 09:31:47] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 09:31:47] 
+仅限产品试用，禁止商用
+
+[2020-09-08 09:31:47] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 09:31:47] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 09:31:48] 
+INFO: cluster members:null
+
+[2020-09-08 09:31:48] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 09:31:48] 
+INFO: Report Center Config File: /WEB-INF/reportCenter.xml
+
+[2020-09-08 09:31:48] 
+INFO: get home path :
+
+[2020-09-08 09:31:48] 
+SEVERE: please config <home> tag in reportCenter.xml
+
+[2020-09-08 09:31:48] 
+DEBUG: java.io.FileNotFoundException: WEB-INF\raqsoftConfig.xml (系统找不到指定的路径。)
+java.io.FileNotFoundException: WEB-INF\raqsoftConfig.xml (系统找不到指定的路径。)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at com.raqsoft.center.Config.getReportConfig(Config.java:1003)
+	at com.raqsoft.center.Config.getReportHome(Config.java:1026)
+	at com.raqsoft.center.Config.getFileRoot(Config.java:956)
+	at com.raqsoft.center.CenterInitServlet.loadConfig(CenterInitServlet.java:60)
+	at com.raqsoft.center.CenterInitServlet.init(CenterInitServlet.java:26)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1134)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:986)
+	at org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedContext.load(TomcatEmbeddedContext.java:82)
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1382)
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:580)
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:270)
+	at java.util.TreeMap$ValueSpliterator.forEachRemaining(TreeMap.java:2897)
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:481)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:418)
+	at org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedContext.lambda$deferredLoadOnStartup$0(TomcatEmbeddedContext.java:65)
+	at org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedContext.doWithThreadContextClassLoader(TomcatEmbeddedContext.java:106)
+	at org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedContext.deferredLoadOnStartup(TomcatEmbeddedContext.java:64)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.performDeferredLoadOnStartup(TomcatWebServer.java:286)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:198)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:297)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:163)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:744)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:391)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1204)
+	at com.iflytek.zhyl.valhalla.ValhallaApplication.main(ValhallaApplication.java:14)
+
+[2020-09-08 09:31:48] 
+INFO: java.io.FileNotFoundException: WEB-INF\raqsoftConfig.xml (系统找不到指定的路径。):获取报表中心文件存储路径失败,引用默认路径“WEB-INF/reportFiles
+
+[2020-09-08 09:31:48] 
+DEBUG: center initialized
+
+[2020-09-08 09:31:48] 
+INFO: DL System initing......
+
+[2020-09-08 09:31:48] 
+INFO: DL System initialized......
+
+[2020-09-08 09:31:48] 
+INFO: Guide initing......
+
+[2020-09-08 09:31:48] 
+INFO: Guide initialized......
+
+[2020-09-08 09:39:47] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 09:39:47] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 09:39:47] 
+INFO: The block size is empty.
+
+[2020-09-08 09:39:47] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 09:39:47] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 09:39:47] 
+仅限产品试用，禁止商用
+
+[2020-09-08 09:39:47] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 09:39:47] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 09:39:48] 
+INFO: cluster members:null
+
+[2020-09-08 09:39:48] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 09:39:48] 
+INFO: DL System initing......
+
+[2020-09-08 09:39:48] 
+INFO: DL System initialized......
+
+[2020-09-08 09:39:48] 
+INFO: Guide initing......
+
+[2020-09-08 09:39:48] 
+INFO: Guide initialized......
+
+[2020-09-08 09:40:22] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 09:40:23] 
+INFO: 下面开始打出sql
+
+[2020-09-08 09:40:23] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 09:40:23] 
+INFO: arg0: null
+
+[2020-09-08 09:40:23] 
+INFO: arg1: null
+
+[2020-09-08 09:40:23] 
+INFO: arg2: default
+
+[2020-09-08 09:40:23] 
+INFO: arg3: default
+
+[2020-09-08 09:40:25] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 09:40:25] 
+INFO: 报表图片处理......
+
+[2020-09-08 09:40:25] 
+INFO: 计算结束！
+
+[2020-09-08 09:41:21] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 09:41:21] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 09:41:21] 
+INFO: 报表图片处理......
+
+[2020-09-08 09:41:21] 
+INFO: 计算结束！
+
+[2020-09-08 09:46:25] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 09:46:25] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 09:46:25] 
+INFO: The block size is empty.
+
+[2020-09-08 09:46:25] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 09:46:25] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 09:46:25] 
+仅限产品试用，禁止商用
+
+[2020-09-08 09:46:25] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 09:46:25] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 09:46:27] 
+INFO: cluster members:null
+
+[2020-09-08 09:46:27] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 09:46:27] 
+INFO: DL System initing......
+
+[2020-09-08 09:46:27] 
+INFO: DL System initialized......
+
+[2020-09-08 09:46:27] 
+INFO: Guide initing......
+
+[2020-09-08 09:46:27] 
+INFO: Guide initialized......
+
+[2020-09-08 09:47:36] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 09:47:37] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 09:47:37] 
+INFO: 报表图片处理......
+
+[2020-09-08 09:47:37] 
+INFO: 计算结束！
+
+[2020-09-08 10:28:02] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 10:28:02] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 10:28:02] 
+INFO: The block size is empty.
+
+[2020-09-08 10:28:02] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 10:28:02] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 10:28:02] 
+仅限产品试用，禁止商用
+
+[2020-09-08 10:28:02] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 10:28:02] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 10:28:03] 
+INFO: cluster members:null
+
+[2020-09-08 10:28:03] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 10:28:03] 
+INFO: DL System initing......
+
+[2020-09-08 10:28:03] 
+INFO: DL System initialized......
+
+[2020-09-08 10:28:03] 
+INFO: Guide initing......
+
+[2020-09-08 10:28:03] 
+INFO: Guide initialized......
+
+[2020-09-08 11:17:40] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 11:17:40] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 11:17:40] 
+INFO: The block size is empty.
+
+[2020-09-08 11:17:40] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 11:17:40] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 11:17:40] 
+仅限产品试用，禁止商用
+
+[2020-09-08 11:17:40] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 11:17:40] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 11:17:41] 
+INFO: cluster members:null
+
+[2020-09-08 11:17:41] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 11:17:41] 
+INFO: DL System initing......
+
+[2020-09-08 11:17:41] 
+INFO: DL System initialized......
+
+[2020-09-08 11:17:41] 
+INFO: Guide initing......
+
+[2020-09-08 11:17:41] 
+INFO: Guide initialized......
+
+[2020-09-08 11:21:16] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 11:21:16] 
+INFO: 下面开始打出sql
+
+[2020-09-08 11:21:16] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 11:21:16] 
+INFO: arg0: null
+
+[2020-09-08 11:21:16] 
+INFO: arg1: null
+
+[2020-09-08 11:21:16] 
+INFO: arg2: default
+
+[2020-09-08 11:21:16] 
+INFO: arg3: default
+
+[2020-09-08 11:21:17] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 11:21:17] 
+INFO: 报表图片处理......
+
+[2020-09-08 11:21:17] 
+INFO: 计算结束！
+
+[2020-09-08 13:20:36] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 13:20:36] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 13:20:36] 
+INFO: The block size is empty.
+
+[2020-09-08 13:20:36] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 13:20:36] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 13:20:36] 
+仅限产品试用，禁止商用
+
+[2020-09-08 13:20:36] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 13:20:36] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 13:20:38] 
+INFO: cluster members:null
+
+[2020-09-08 13:20:38] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 13:20:38] 
+INFO: DL System initing......
+
+[2020-09-08 13:20:38] 
+INFO: DL System initialized......
+
+[2020-09-08 13:20:38] 
+INFO: Guide initing......
+
+[2020-09-08 13:20:38] 
+INFO: Guide initialized......
+
+[2020-09-08 13:21:44] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 13:21:44] 
+INFO: 下面开始打出sql
+
+[2020-09-08 13:21:44] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 13:21:44] 
+INFO: arg0: null
+
+[2020-09-08 13:21:44] 
+INFO: arg1: null
+
+[2020-09-08 13:21:44] 
+INFO: arg2: default
+
+[2020-09-08 13:21:44] 
+INFO: arg3: default
+
+[2020-09-08 13:21:45] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 13:21:45] 
+INFO: 报表图片处理......
+
+[2020-09-08 13:21:45] 
+INFO: 计算结束！
+
+[2020-09-08 13:21:45] 
+DEBUG: Export report begin, total pages :8
+
+[2020-09-08 13:21:45] 
+DEBUG: Page :1 OK.
+
+[2020-09-08 13:21:45] 
+DEBUG: Page :2 OK.
+
+[2020-09-08 13:21:45] 
+DEBUG: Page :3 OK.
+
+[2020-09-08 13:21:45] 
+DEBUG: Page :4 OK.
+
+[2020-09-08 13:21:45] 
+DEBUG: Page :5 OK.
+
+[2020-09-08 13:21:45] 
+DEBUG: Page :6 OK.
+
+[2020-09-08 13:21:45] 
+DEBUG: Page :7 OK.
+
+[2020-09-08 13:21:45] 
+DEBUG: Page :8 OK.
+
+[2020-09-08 13:25:35] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 13:25:35] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 13:25:35] 
+INFO: The block size is empty.
+
+[2020-09-08 13:25:35] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 13:25:35] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 13:25:35] 
+仅限产品试用，禁止商用
+
+[2020-09-08 13:25:35] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 13:25:35] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 13:25:36] 
+INFO: cluster members:null
+
+[2020-09-08 13:25:36] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 13:25:36] 
+INFO: DL System initing......
+
+[2020-09-08 13:25:36] 
+INFO: DL System initialized......
+
+[2020-09-08 13:25:36] 
+INFO: Guide initing......
+
+[2020-09-08 13:25:36] 
+INFO: Guide initialized......
+
+[2020-09-08 13:25:45] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 13:25:46] 
+INFO: 下面开始打出sql
+
+[2020-09-08 13:25:46] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 13:25:46] 
+INFO: arg0: null
+
+[2020-09-08 13:25:46] 
+INFO: arg1: null
+
+[2020-09-08 13:25:46] 
+INFO: arg2: default
+
+[2020-09-08 13:25:46] 
+INFO: arg3: default
+
+[2020-09-08 13:25:46] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 13:25:46] 
+INFO: 报表图片处理......
+
+[2020-09-08 13:25:46] 
+INFO: 计算结束！
+
+[2020-09-08 13:25:46] 
+DEBUG: Export report begin, total pages :8
+
+[2020-09-08 13:25:46] 
+DEBUG: Page :1 OK.
+
+[2020-09-08 13:25:46] 
+DEBUG: Page :2 OK.
+
+[2020-09-08 13:25:46] 
+DEBUG: Page :3 OK.
+
+[2020-09-08 13:25:46] 
+DEBUG: Page :4 OK.
+
+[2020-09-08 13:25:46] 
+DEBUG: Page :5 OK.
+
+[2020-09-08 13:25:46] 
+DEBUG: Page :6 OK.
+
+[2020-09-08 13:25:46] 
+DEBUG: Page :7 OK.
+
+[2020-09-08 13:25:46] 
+DEBUG: Page :8 OK.
+
+[2020-09-08 13:26:20] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 13:26:20] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 13:26:20] 
+INFO: The block size is empty.
+
+[2020-09-08 13:26:20] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 13:26:20] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 13:26:21] 
+仅限产品试用，禁止商用
+
+[2020-09-08 13:26:21] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 13:26:21] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 13:26:22] 
+INFO: cluster members:null
+
+[2020-09-08 13:26:22] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 13:26:22] 
+INFO: DL System initing......
+
+[2020-09-08 13:26:22] 
+INFO: DL System initialized......
+
+[2020-09-08 13:26:22] 
+INFO: Guide initing......
+
+[2020-09-08 13:26:22] 
+INFO: Guide initialized......
+
+[2020-09-08 14:11:56] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:11:56] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 14:11:56] 
+INFO: The block size is empty.
+
+[2020-09-08 14:11:56] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:11:56] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:11:56] 
+仅限产品试用，禁止商用
+
+[2020-09-08 14:11:56] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 14:11:56] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 14:11:57] 
+INFO: cluster members:null
+
+[2020-09-08 14:11:57] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 14:11:57] 
+INFO: DL System initing......
+
+[2020-09-08 14:11:57] 
+INFO: DL System initialized......
+
+[2020-09-08 14:11:57] 
+INFO: Guide initing......
+
+[2020-09-08 14:11:57] 
+INFO: Guide initialized......
+
+[2020-09-08 14:23:55] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:23:55] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 14:23:55] 
+INFO: The block size is empty.
+
+[2020-09-08 14:23:55] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:23:55] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:23:55] 
+仅限产品试用，禁止商用
+
+[2020-09-08 14:23:55] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 14:23:55] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 14:23:56] 
+INFO: cluster members:null
+
+[2020-09-08 14:23:56] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 14:23:56] 
+INFO: DL System initing......
+
+[2020-09-08 14:23:56] 
+INFO: DL System initialized......
+
+[2020-09-08 14:23:56] 
+INFO: Guide initing......
+
+[2020-09-08 14:23:56] 
+INFO: Guide initialized......
+
+[2020-09-08 14:32:55] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:32:55] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 14:32:55] 
+INFO: The block size is empty.
+
+[2020-09-08 14:32:55] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:32:55] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:32:56] 
+仅限产品试用，禁止商用
+
+[2020-09-08 14:32:56] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 14:32:56] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 14:32:57] 
+INFO: cluster members:null
+
+[2020-09-08 14:32:57] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 14:32:57] 
+INFO: DL System initing......
+
+[2020-09-08 14:32:57] 
+INFO: DL System initialized......
+
+[2020-09-08 14:32:57] 
+INFO: Guide initing......
+
+[2020-09-08 14:32:57] 
+INFO: Guide initialized......
+
+[2020-09-08 14:35:12] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:35:12] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 14:35:12] 
+INFO: The block size is empty.
+
+[2020-09-08 14:35:12] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:35:12] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:35:12] 
+仅限产品试用，禁止商用
+
+[2020-09-08 14:35:12] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 14:35:12] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 14:35:13] 
+INFO: cluster members:null
+
+[2020-09-08 14:35:13] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 14:35:13] 
+INFO: DL System initing......
+
+[2020-09-08 14:35:13] 
+INFO: DL System initialized......
+
+[2020-09-08 14:35:13] 
+INFO: Guide initing......
+
+[2020-09-08 14:35:13] 
+INFO: Guide initialized......
+
+[2020-09-08 14:35:16] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 14:35:16] 
+INFO: 下面开始打出sql
+
+[2020-09-08 14:35:16] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 14:35:17] 
+INFO: arg0: null
+
+[2020-09-08 14:35:17] 
+INFO: arg1: null
+
+[2020-09-08 14:35:17] 
+INFO: arg2: default
+
+[2020-09-08 14:35:17] 
+INFO: arg3: default
+
+[2020-09-08 14:35:17] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 14:35:17] 
+INFO: 报表图片处理......
+
+[2020-09-08 14:35:17] 
+INFO: 计算结束！
+
+[2020-09-08 14:35:18] 
+DEBUG: Export report begin, total pages :1
+
+[2020-09-08 14:35:18] 
+DEBUG: Page :1 OK.
+
+[2020-09-08 14:38:37] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:38:37] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 14:38:37] 
+INFO: The block size is empty.
+
+[2020-09-08 14:38:37] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:38:37] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:38:37] 
+仅限产品试用，禁止商用
+
+[2020-09-08 14:38:37] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 14:38:37] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 14:38:38] 
+INFO: cluster members:null
+
+[2020-09-08 14:38:38] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 14:38:38] 
+INFO: DL System initing......
+
+[2020-09-08 14:38:38] 
+INFO: DL System initialized......
+
+[2020-09-08 14:38:38] 
+INFO: Guide initing......
+
+[2020-09-08 14:38:38] 
+INFO: Guide initialized......
+
+[2020-09-08 14:38:46] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 14:38:46] 
+INFO: 下面开始打出sql
+
+[2020-09-08 14:38:46] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 14:38:47] 
+INFO: arg0: null
+
+[2020-09-08 14:38:47] 
+INFO: arg1: null
+
+[2020-09-08 14:38:47] 
+INFO: arg2: default
+
+[2020-09-08 14:38:47] 
+INFO: arg3: default
+
+[2020-09-08 14:38:47] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 14:38:47] 
+INFO: 报表图片处理......
+
+[2020-09-08 14:38:47] 
+INFO: 计算结束！
+
+[2020-09-08 14:38:48] 
+DEBUG: Export report begin, total pages :1
+
+[2020-09-08 14:50:17] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:50:17] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 14:50:17] 
+INFO: The block size is empty.
+
+[2020-09-08 14:50:17] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:50:17] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:50:17] 
+仅限产品试用，禁止商用
+
+[2020-09-08 14:50:17] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 14:50:17] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 14:50:18] 
+INFO: cluster members:null
+
+[2020-09-08 14:50:18] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 14:50:18] 
+INFO: DL System initing......
+
+[2020-09-08 14:50:18] 
+INFO: DL System initialized......
+
+[2020-09-08 14:50:18] 
+INFO: Guide initing......
+
+[2020-09-08 14:50:18] 
+INFO: Guide initialized......
+
+[2020-09-08 14:50:36] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 14:50:36] 
+INFO: 下面开始打出sql
+
+[2020-09-08 14:50:36] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 14:50:36] 
+INFO: arg0: null
+
+[2020-09-08 14:50:36] 
+INFO: arg1: null
+
+[2020-09-08 14:50:36] 
+INFO: arg2: default
+
+[2020-09-08 14:50:36] 
+INFO: arg3: default
+
+[2020-09-08 14:50:37] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 14:50:37] 
+INFO: 报表图片处理......
+
+[2020-09-08 14:50:37] 
+INFO: 计算结束！
+
+[2020-09-08 14:50:37] 
+DEBUG: Export report begin, total pages :1
+
+[2020-09-08 14:53:33] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:53:33] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 14:53:33] 
+INFO: The block size is empty.
+
+[2020-09-08 14:53:33] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:53:33] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 14:53:33] 
+仅限产品试用，禁止商用
+
+[2020-09-08 14:53:33] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 14:53:33] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 14:53:34] 
+INFO: cluster members:null
+
+[2020-09-08 14:53:34] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 14:53:34] 
+INFO: DL System initing......
+
+[2020-09-08 14:53:34] 
+INFO: DL System initialized......
+
+[2020-09-08 14:53:34] 
+INFO: Guide initing......
+
+[2020-09-08 14:53:34] 
+INFO: Guide initialized......
+
+[2020-09-08 14:53:48] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 14:53:48] 
+INFO: 下面开始打出sql
+
+[2020-09-08 14:53:48] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 14:53:48] 
+INFO: arg0: null
+
+[2020-09-08 14:53:48] 
+INFO: arg1: null
+
+[2020-09-08 14:53:48] 
+INFO: arg2: default
+
+[2020-09-08 14:53:48] 
+INFO: arg3: default
+
+[2020-09-08 14:53:49] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 14:53:49] 
+INFO: 报表图片处理......
+
+[2020-09-08 14:53:49] 
+INFO: 计算结束！
+
+[2020-09-08 14:53:49] 
+DEBUG: Export report begin, total pages :1
+
+[2020-09-08 14:53:49] 
+DEBUG: Page :1 OK.
+
+[2020-09-08 14:54:12] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 14:54:12] 
+INFO: 下面开始打出sql
+
+[2020-09-08 14:54:12] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 14:54:12] 
+INFO: arg0: null
+
+[2020-09-08 14:54:12] 
+INFO: arg1: null
+
+[2020-09-08 14:54:12] 
+INFO: arg2: default
+
+[2020-09-08 14:54:12] 
+INFO: arg3: default
+
+[2020-09-08 14:54:13] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 14:54:13] 
+INFO: 报表图片处理......
+
+[2020-09-08 14:54:13] 
+INFO: 计算结束！
+
+[2020-09-08 14:54:13] 
+DEBUG: Export report begin, total pages :1
+
+[2020-09-08 14:54:14] 
+DEBUG: Page :1 OK.
+
+[2020-09-08 15:01:19] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 15:01:19] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 15:01:19] 
+INFO: The block size is empty.
+
+[2020-09-08 15:01:19] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 15:01:19] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 15:01:20] 
+仅限产品试用，禁止商用
+
+[2020-09-08 15:01:20] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 15:01:20] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 15:01:21] 
+INFO: cluster members:null
+
+[2020-09-08 15:01:21] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 15:01:21] 
+INFO: DL System initing......
+
+[2020-09-08 15:01:21] 
+INFO: DL System initialized......
+
+[2020-09-08 15:01:21] 
+INFO: Guide initing......
+
+[2020-09-08 15:01:21] 
+INFO: Guide initialized......
+
+[2020-09-08 15:01:35] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 15:01:36] 
+INFO: 下面开始打出sql
+
+[2020-09-08 15:01:36] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 15:01:36] 
+INFO: arg0: null
+
+[2020-09-08 15:01:36] 
+INFO: arg1: null
+
+[2020-09-08 15:01:36] 
+INFO: arg2: default
+
+[2020-09-08 15:01:36] 
+INFO: arg3: default
+
+[2020-09-08 15:01:36] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 15:01:36] 
+INFO: 报表图片处理......
+
+[2020-09-08 15:01:36] 
+INFO: 计算结束！
+
+[2020-09-08 15:01:37] 
+DEBUG: Export report begin, total pages :1
+
+[2020-09-08 15:01:37] 
+DEBUG: Page :1 OK.
+
+[2020-09-08 15:03:38] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 15:03:38] 
+INFO: 下面开始打出sql
+
+[2020-09-08 15:03:38] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 15:03:38] 
+INFO: arg0: null
+
+[2020-09-08 15:03:38] 
+INFO: arg1: null
+
+[2020-09-08 15:03:38] 
+INFO: arg2: default
+
+[2020-09-08 15:03:38] 
+INFO: arg3: default
+
+[2020-09-08 15:03:38] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 15:03:38] 
+INFO: 报表图片处理......
+
+[2020-09-08 15:03:38] 
+INFO: 计算结束！
+
+[2020-09-08 15:03:39] 
+DEBUG: page1 gap:10.157480314960708
+
+[2020-09-08 15:03:39] 
+DEBUG: needbreak:true
+
+[2020-09-08 15:03:39] 
+DEBUG: page2 gap:10.157480314960708
+
+[2020-09-08 15:03:39] 
+DEBUG: needbreak:true
+
+[2020-09-08 15:03:39] 
+DEBUG: page3 gap:10.157480314960708
+
+[2020-09-08 15:03:39] 
+DEBUG: needbreak:true
+
+[2020-09-08 15:03:39] 
+DEBUG: page4 gap:10.157480314960708
+
+[2020-09-08 15:03:39] 
+DEBUG: needbreak:true
+
+[2020-09-08 15:03:39] 
+DEBUG: page5 gap:10.157480314960708
+
+[2020-09-08 15:03:39] 
+DEBUG: needbreak:true
+
+[2020-09-08 15:03:39] 
+DEBUG: page6 gap:10.157480314960708
+
+[2020-09-08 15:03:39] 
+DEBUG: needbreak:true
+
+[2020-09-08 15:03:39] 
+DEBUG: page7 gap:10.157480314960708
+
+[2020-09-08 15:03:39] 
+DEBUG: needbreak:true
+
+[2020-09-08 15:04:32] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 15:04:32] 
+INFO: 下面开始打出sql
+
+[2020-09-08 15:04:32] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 15:04:32] 
+INFO: arg0: null
+
+[2020-09-08 15:04:32] 
+INFO: arg1: null
+
+[2020-09-08 15:04:32] 
+INFO: arg2: default
+
+[2020-09-08 15:04:32] 
+INFO: arg3: default
+
+[2020-09-08 15:04:32] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 15:04:32] 
+INFO: 报表图片处理......
+
+[2020-09-08 15:04:32] 
+INFO: 计算结束！
+
+[2020-09-08 15:04:32] 
+DEBUG: Loading fonts from directory:c:/windows/fonts
+
+[2020-09-08 15:04:35] 
+DEBUG: Loading fonts from directory:c:/winnt/fonts
+
+[2020-09-08 15:04:35] 
+DEBUG: Loading fonts from directory:d:/windows/fonts
+
+[2020-09-08 15:04:35] 
+DEBUG: Loading fonts from directory:d:/winnt/fonts
+
+[2020-09-08 15:04:35] 
+DEBUG: Loading fonts from directory:/usr/X/lib/X11/fonts/TrueType
+
+[2020-09-08 15:04:35] 
+DEBUG: Loading fonts from directory:/usr/openwin/lib/X11/fonts/TrueType
+
+[2020-09-08 15:04:35] 
+DEBUG: Loading fonts from directory:/usr/share/fonts/default/TrueType
+
+[2020-09-08 15:04:35] 
+DEBUG: Loading fonts from directory:/usr/X11R6/lib/X11/fonts/ttf
+
+[2020-09-08 15:04:35] 
+DEBUG: Loading fonts from directory:/Library/Fonts
+
+[2020-09-08 15:04:35] 
+DEBUG: Loading fonts from directory:/System/Library/Fonts
+
+[2020-09-08 15:44:48] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 15:44:48] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 15:44:48] 
+INFO: The block size is empty.
+
+[2020-09-08 15:44:48] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 15:44:48] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 15:44:48] 
+仅限产品试用，禁止商用
+
+[2020-09-08 15:44:48] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 15:44:49] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 15:44:50] 
+INFO: cluster members:null
+
+[2020-09-08 15:44:50] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 15:44:50] 
+INFO: DL System initing......
+
+[2020-09-08 15:44:50] 
+INFO: DL System initialized......
+
+[2020-09-08 15:44:50] 
+INFO: Guide initing......
+
+[2020-09-08 15:44:50] 
+INFO: Guide initialized......
+
+[2020-09-08 15:46:43] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 15:46:43] 
+INFO: 下面开始打出sql
+
+[2020-09-08 15:46:43] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 15:46:43] 
+INFO: arg0: null
+
+[2020-09-08 15:46:43] 
+INFO: arg1: null
+
+[2020-09-08 15:46:43] 
+INFO: arg2: default
+
+[2020-09-08 15:46:43] 
+INFO: arg3: default
+
+[2020-09-08 15:46:44] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 15:46:44] 
+INFO: 报表图片处理......
+
+[2020-09-08 15:46:44] 
+INFO: 计算结束！
+
+[2020-09-08 15:52:09] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 15:52:09] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 15:52:09] 
+INFO: The block size is empty.
+
+[2020-09-08 15:52:09] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 15:52:09] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 15:52:09] 
+仅限产品试用，禁止商用
+
+[2020-09-08 15:52:09] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 15:52:09] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 15:52:10] 
+INFO: cluster members:null
+
+[2020-09-08 15:52:10] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 15:52:10] 
+INFO: DL System initing......
+
+[2020-09-08 15:52:10] 
+INFO: DL System initialized......
+
+[2020-09-08 15:52:10] 
+INFO: Guide initing......
+
+[2020-09-08 15:52:10] 
+INFO: Guide initialized......
+
+[2020-09-08 15:54:33] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 15:54:34] 
+INFO: 下面开始打出sql
+
+[2020-09-08 15:54:34] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 15:54:34] 
+INFO: arg0: null
+
+[2020-09-08 15:54:34] 
+INFO: arg1: null
+
+[2020-09-08 15:54:34] 
+INFO: arg2: default
+
+[2020-09-08 15:54:34] 
+INFO: arg3: default
+
+[2020-09-08 15:54:35] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 15:54:35] 
+INFO: 报表图片处理......
+
+[2020-09-08 15:54:35] 
+INFO: 计算结束！
+
+[2020-09-08 15:54:35] 
+DEBUG: Export report begin, total pages :1
+
+[2020-09-08 15:54:35] 
+DEBUG: Page :1 OK.
+
+[2020-09-08 15:59:17] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 15:59:17] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 15:59:17] 
+INFO: The block size is empty.
+
+[2020-09-08 15:59:17] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 15:59:17] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 15:59:17] 
+仅限产品试用，禁止商用
+
+[2020-09-08 15:59:17] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 15:59:17] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 15:59:18] 
+INFO: cluster members:null
+
+[2020-09-08 15:59:18] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 15:59:18] 
+INFO: DL System initing......
+
+[2020-09-08 15:59:18] 
+INFO: DL System initialized......
+
+[2020-09-08 15:59:18] 
+INFO: Guide initing......
+
+[2020-09-08 15:59:18] 
+INFO: Guide initialized......
+
+[2020-09-08 16:01:12] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 16:01:12] 
+INFO: 下面开始打出sql
+
+[2020-09-08 16:01:12] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 16:01:12] 
+INFO: arg0: null
+
+[2020-09-08 16:01:12] 
+INFO: arg1: null
+
+[2020-09-08 16:01:12] 
+INFO: arg2: default
+
+[2020-09-08 16:01:12] 
+INFO: arg3: default
+
+[2020-09-08 16:01:13] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 16:01:13] 
+INFO: 报表图片处理......
+
+[2020-09-08 16:01:13] 
+INFO: 计算结束！
+
+[2020-09-08 16:01:13] 
+DEBUG: Export report begin, total pages :1
+
+[2020-09-08 16:01:13] 
+DEBUG: Page :1 OK.
+
+[2020-09-08 16:01:57] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 16:01:57] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 16:01:57] 
+INFO: The block size is empty.
+
+[2020-09-08 16:01:57] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 16:01:57] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 16:01:57] 
+仅限产品试用，禁止商用
+
+[2020-09-08 16:01:57] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 16:01:57] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 16:01:58] 
+INFO: cluster members:null
+
+[2020-09-08 16:01:58] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 16:01:58] 
+INFO: DL System initing......
+
+[2020-09-08 16:01:58] 
+INFO: DL System initialized......
+
+[2020-09-08 16:01:58] 
+INFO: Guide initing......
+
+[2020-09-08 16:01:58] 
+INFO: Guide initialized......
+
+[2020-09-08 16:02:41] 
+INFO: 开始运算报表，首先取数......
+
+[2020-09-08 16:02:41] 
+INFO: 下面开始打出sql
+
+[2020-09-08 16:02:41] 
+INFO: hisds=SELECT INTERFACE_TRADE_LOGS.TRADE_NO,
+       INTERFACE_TRADE_LOGS.TRADE_TYPE,
+       INTERFACE_TRADE_LOGS.TRANS_ID,
+       INTERFACE_TRADE_LOGS.DEVICEID,
+       INTERFACE_TRADE_LOGS.OPERATOR,
+       INTERFACE_TRADE_LOGS.TRADE_DATE,
+       INTERFACE_TRADE_LOGS.RETURN_CODE,
+       INTERFACE_TRADE_LOGS.SESSION_ID,
+       INTERFACE_TRADE_LOGS.TERMINAL FROM INTERFACE_TRADE_LOGS
+ WHERE 1 = 1
+   and (INTERFACE_TRADE_LOGS.TRADE_TYPE = ? or ? is null)
+   and (INTERFACE_TRADE_LOGS.DEVICEID = ? or ? is null) ORDER BY INTERFACE_TRADE_LOGS.TRADE_DATE DESC
+
+[2020-09-08 16:02:42] 
+INFO: arg0: null
+
+[2020-09-08 16:02:42] 
+INFO: arg1: null
+
+[2020-09-08 16:02:42] 
+INFO: arg2: default
+
+[2020-09-08 16:02:42] 
+INFO: arg3: default
+
+[2020-09-08 16:02:42] 
+INFO: 取数结束,开始运算
+
+[2020-09-08 16:02:42] 
+INFO: 报表图片处理......
+
+[2020-09-08 16:02:42] 
+INFO: 计算结束！
+
+[2020-09-08 16:02:42] 
+DEBUG: Export report begin, total pages :1
+
+[2020-09-08 16:02:42] 
+DEBUG: Page :1 OK.
+
+[2020-09-08 16:07:57] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 16:07:57] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 16:07:57] 
+INFO: The block size is empty.
+
+[2020-09-08 16:07:57] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 16:07:57] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 16:07:58] 
+仅限产品试用，禁止商用
+
+[2020-09-08 16:07:58] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 16:07:58] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 16:07:59] 
+INFO: cluster members:null
+
+[2020-09-08 16:07:59] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 16:07:59] 
+INFO: DL System initing......
+
+[2020-09-08 16:07:59] 
+INFO: DL System initialized......
+
+[2020-09-08 16:07:59] 
+INFO: Guide initing......
+
+[2020-09-08 16:07:59] 
+INFO: Guide initialized......
+
+[2020-09-08 17:17:50] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 17:17:50] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 17:17:50] 
+INFO: The block size is empty.
+
+[2020-09-08 17:17:50] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 17:17:50] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 17:17:50] 
+仅限产品试用，禁止商用
+
+[2020-09-08 17:17:50] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 17:17:50] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 17:17:52] 
+INFO: cluster members:null
+
+[2020-09-08 17:17:52] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 17:17:52] 
+INFO: DL System initing......
+
+[2020-09-08 17:17:52] 
+INFO: DL System initialized......
+
+[2020-09-08 17:17:52] 
+INFO: Guide initing......
+
+[2020-09-08 17:17:52] 
+INFO: Guide initialized......
+
+[2020-09-08 17:18:39] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 17:18:39] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 17:18:39] 
+INFO: The block size is empty.
+
+[2020-09-08 17:18:39] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 17:18:39] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 17:18:39] 
+仅限产品试用，禁止商用
+
+[2020-09-08 17:18:39] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 17:18:39] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 17:18:40] 
+INFO: cluster members:null
+
+[2020-09-08 17:18:40] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 17:18:40] 
+INFO: DL System initing......
+
+[2020-09-08 17:18:40] 
+INFO: DL System initialized......
+
+[2020-09-08 17:18:40] 
+INFO: Guide initing......
+
+[2020-09-08 17:18:40] 
+INFO: Guide initialized......
+
+[2020-09-08 17:22:45] 
+DEBUG: Dfx path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 17:22:45] 
+DEBUG: Esproc main path: null
+
+[2020-09-08 17:22:45] 
+INFO: The block size is empty.
+
+[2020-09-08 17:22:45] 
+DEBUG: Report main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 17:22:45] 
+DEBUG: Input main path: D:/dev/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-08 17:22:45] 
+仅限产品试用，禁止商用
+
+[2020-09-08 17:22:45] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-08 17:22:45] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-08 17:22:47] 
+INFO: cluster members:null
+
+[2020-09-08 17:22:47] 
+DEBUG: web root is : D:\dev\valhalla\src\main\webapp\
+
+[2020-09-08 17:22:47] 
+INFO: DL System initing......
+
+[2020-09-08 17:22:47] 
+INFO: DL System initialized......
+
+[2020-09-08 17:22:47] 
+INFO: Guide initing......
+
+[2020-09-08 17:22:47] 
+INFO: Guide initialized......

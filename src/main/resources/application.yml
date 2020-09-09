@@ -1,0 +1,28 @@
+server:
+  port: 6666
+
+spring:
+  application:
+    name: valhalla
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://172.31.129.19:5432/valhalla
+    username: cbb
+    password: 123456
+
+jetcache:
+  statIntervalMinutes: 15
+  areaInCacheName: false
+  local:
+    default:
+      type: linkedhashmap
+      keyConvertor: fastjson
+      limit: 100
+
+logging:
+  level:
+    root: INFO
+  file:
+    name: ${spring.application.name}.log
+
+raqsoft-config-file: D:\dev\valhalla\src\main\resources\raqsoftConfig.xml

@@ -1,0 +1,432 @@
+
+[2020-09-04 16:04:20] 
+DEBUG: Dfx path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 16:04:20] 
+DEBUG: Esproc main path: null
+
+[2020-09-04 16:04:20] 
+INFO: The block size is empty.
+
+[2020-09-04 16:04:20] 
+DEBUG: Report main path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 16:04:20] 
+DEBUG: Input main path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 16:04:20] 
+仅限产品试用，禁止商用
+
+[2020-09-04 16:04:20] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-04 16:04:20] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-04 16:04:21] 
+INFO: cluster members:null
+
+[2020-09-04 16:04:21] 
+DEBUG: web root is : D:\iflytek-imed\source\cbb\valhalla\src\main\webapp\
+
+[2020-09-04 16:04:21] 
+INFO: Report Center Config File: /WEB-INF/reportCenter.xml
+
+[2020-09-04 16:04:21] 
+INFO: get home path :
+
+[2020-09-04 16:04:21] 
+SEVERE: please config <home> tag in reportCenter.xml
+
+[2020-09-04 16:04:21] 
+DEBUG: center initialized
+
+[2020-09-04 16:04:21] 
+INFO: DL System initing......
+
+[2020-09-04 16:04:21] 
+INFO: DL System initialized......
+
+[2020-09-04 16:04:21] 
+INFO: Guide initing......
+
+[2020-09-04 16:04:21] 
+INFO: Guide initialized......
+
+[2020-09-04 16:13:10] 
+DEBUG: Dfx path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 16:13:10] 
+DEBUG: Esproc main path: null
+
+[2020-09-04 16:13:10] 
+INFO: The block size is empty.
+
+[2020-09-04 16:13:10] 
+DEBUG: Report main path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 16:13:10] 
+DEBUG: Input main path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 16:13:10] 
+仅限产品试用，禁止商用
+
+[2020-09-04 16:13:10] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-04 16:13:10] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-04 16:13:11] 
+INFO: cluster members:null
+
+[2020-09-04 16:13:11] 
+DEBUG: web root is : D:\iflytek-imed\source\cbb\valhalla\src\main\webapp\
+
+[2020-09-04 16:13:11] 
+INFO: Report Center Config File: /WEB-INF/reportCenter.xml
+
+[2020-09-04 16:13:11] 
+INFO: get home path :
+
+[2020-09-04 16:13:11] 
+SEVERE: please config <home> tag in reportCenter.xml
+
+[2020-09-04 16:13:11] 
+DEBUG: center initialized
+
+[2020-09-04 16:13:11] 
+INFO: DL System initing......
+
+[2020-09-04 16:13:11] 
+INFO: DL System initialized......
+
+[2020-09-04 16:13:11] 
+INFO: Guide initing......
+
+[2020-09-04 16:13:11] 
+INFO: Guide initialized......
+
+[2020-09-04 16:13:46] 
+DEBUG: Dfx path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 16:13:46] 
+DEBUG: Esproc main path: null
+
+[2020-09-04 16:13:46] 
+INFO: The block size is empty.
+
+[2020-09-04 16:13:46] 
+DEBUG: Report main path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 16:13:46] 
+DEBUG: Input main path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 16:13:46] 
+仅限产品试用，禁止商用
+
+[2020-09-04 16:13:46] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-04 16:13:46] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-04 16:13:47] 
+INFO: cluster members:null
+
+[2020-09-04 16:13:47] 
+DEBUG: web root is : D:\iflytek-imed\source\cbb\valhalla\src\main\webapp\
+
+[2020-09-04 16:13:47] 
+INFO: Report Center Config File: /WEB-INF/reportCenter.xml
+
+[2020-09-04 16:13:47] 
+INFO: get home path :
+
+[2020-09-04 16:13:47] 
+SEVERE: please config <home> tag in reportCenter.xml
+
+[2020-09-04 16:13:47] 
+DEBUG: center initialized
+
+[2020-09-04 16:13:47] 
+INFO: DL System initing......
+
+[2020-09-04 16:13:47] 
+INFO: DL System initialized......
+
+[2020-09-04 16:13:47] 
+INFO: Guide initing......
+
+[2020-09-04 16:13:47] 
+INFO: Guide initialized......
+
+[2020-09-04 16:19:24] 
+DEBUG: Dfx path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 16:19:24] 
+DEBUG: Esproc main path: null
+
+[2020-09-04 16:19:24] 
+INFO: The block size is empty.
+
+[2020-09-04 16:19:24] 
+DEBUG: Report main path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 16:19:24] 
+DEBUG: Input main path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 16:19:24] 
+仅限产品试用，禁止商用
+
+[2020-09-04 16:19:24] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-04 16:19:24] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-04 16:19:25] 
+INFO: cluster members:null
+
+[2020-09-04 16:19:25] 
+DEBUG: web root is : D:\iflytek-imed\source\cbb\valhalla\src\main\webapp\
+
+[2020-09-04 16:19:25] 
+INFO: Report Center Config File: /WEB-INF/reportCenter.xml
+
+[2020-09-04 16:19:25] 
+INFO: get home path :
+
+[2020-09-04 16:19:25] 
+SEVERE: please config <home> tag in reportCenter.xml
+
+[2020-09-04 16:19:25] 
+DEBUG: center initialized
+
+[2020-09-04 16:19:25] 
+INFO: DL System initing......
+
+[2020-09-04 16:19:25] 
+INFO: DL System initialized......
+
+[2020-09-04 16:19:25] 
+INFO: Guide initing......
+
+[2020-09-04 16:19:25] 
+INFO: Guide initialized......
+
+[2020-09-04 17:26:01] 
+DEBUG: Dfx path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 17:26:01] 
+DEBUG: Esproc main path: null
+
+[2020-09-04 17:26:01] 
+INFO: The block size is empty.
+
+[2020-09-04 17:26:01] 
+DEBUG: Report main path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 17:26:01] 
+DEBUG: Input main path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 17:26:01] 
+仅限产品试用，禁止商用
+
+[2020-09-04 17:26:01] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-04 17:26:02] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-04 17:26:03] 
+INFO: cluster members:null
+
+[2020-09-04 17:26:03] 
+DEBUG: web root is : D:\iflytek-imed\source\cbb\valhalla\src\main\webapp\
+
+[2020-09-04 17:26:03] 
+INFO: Report Center Config File: /WEB-INF/reportCenter.xml
+
+[2020-09-04 17:26:03] 
+INFO: get home path :
+
+[2020-09-04 17:26:03] 
+SEVERE: please config <home> tag in reportCenter.xml
+
+[2020-09-04 17:26:03] 
+DEBUG: center initialized
+
+[2020-09-04 17:26:03] 
+INFO: DL System initing......
+
+[2020-09-04 17:26:03] 
+INFO: DL System initialized......
+
+[2020-09-04 17:26:03] 
+INFO: Guide initing......
+
+[2020-09-04 17:26:03] 
+INFO: Guide initialized......
+
+[2020-09-04 17:35:13] 
+DEBUG: Dfx path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 17:35:13] 
+DEBUG: Esproc main path: null
+
+[2020-09-04 17:35:13] 
+INFO: The block size is empty.
+
+[2020-09-04 17:35:13] 
+DEBUG: Report main path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 17:35:13] 
+DEBUG: Input main path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 17:35:13] 
+仅限产品试用，禁止商用
+
+[2020-09-04 17:35:13] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-04 17:35:13] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-04 17:35:15] 
+INFO: cluster members:null
+
+[2020-09-04 17:35:15] 
+DEBUG: web root is : D:\iflytek-imed\source\cbb\valhalla\src\main\webapp\
+
+[2020-09-04 17:35:15] 
+INFO: Report Center Config File: /WEB-INF/reportCenter.xml
+
+[2020-09-04 17:35:15] 
+INFO: get home path :
+
+[2020-09-04 17:35:15] 
+SEVERE: please config <home> tag in reportCenter.xml
+
+[2020-09-04 17:35:15] 
+DEBUG: center initialized
+
+[2020-09-04 17:35:15] 
+INFO: DL System initing......
+
+[2020-09-04 17:35:15] 
+INFO: DL System initialized......
+
+[2020-09-04 17:35:15] 
+INFO: Guide initing......
+
+[2020-09-04 17:35:15] 
+INFO: Guide initialized......
+
+[2020-09-04 17:38:03] 
+DEBUG: Dfx path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 17:38:03] 
+DEBUG: Esproc main path: null
+
+[2020-09-04 17:38:03] 
+INFO: The block size is empty.
+
+[2020-09-04 17:38:03] 
+DEBUG: Report main path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 17:38:03] 
+DEBUG: Input main path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 17:38:03] 
+仅限产品试用，禁止商用
+
+[2020-09-04 17:38:03] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-04 17:38:03] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-04 17:38:04] 
+INFO: cluster members:null
+
+[2020-09-04 17:38:04] 
+DEBUG: web root is : D:\iflytek-imed\source\cbb\valhalla\src\main\webapp\
+
+[2020-09-04 17:38:04] 
+INFO: Report Center Config File: /WEB-INF/reportCenter.xml
+
+[2020-09-04 17:38:04] 
+INFO: get home path :
+
+[2020-09-04 17:38:04] 
+SEVERE: please config <home> tag in reportCenter.xml
+
+[2020-09-04 17:38:04] 
+DEBUG: center initialized
+
+[2020-09-04 17:38:04] 
+INFO: DL System initing......
+
+[2020-09-04 17:38:04] 
+INFO: DL System initialized......
+
+[2020-09-04 17:38:04] 
+INFO: Guide initing......
+
+[2020-09-04 17:38:04] 
+INFO: Guide initialized......
+
+[2020-09-04 19:12:58] 
+DEBUG: Dfx path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 19:12:58] 
+DEBUG: Esproc main path: null
+
+[2020-09-04 19:12:58] 
+INFO: The block size is empty.
+
+[2020-09-04 19:12:58] 
+DEBUG: Report main path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 19:12:58] 
+DEBUG: Input main path: D:/iflytek-imed/source/cbb/valhalla/src/main/webapp/WEB-INF/reportFiles
+
+[2020-09-04 19:12:58] 
+仅限产品试用，禁止商用
+
+[2020-09-04 19:12:58] 
+INFO: Set The Max DataSet Rows Num to -1 , old value is -1
+
+[2020-09-04 19:12:59] 
+DEBUG: setCachePath :　cache/input
+
+[2020-09-04 19:13:00] 
+INFO: cluster members:null
+
+[2020-09-04 19:13:00] 
+DEBUG: web root is : D:\iflytek-imed\source\cbb\valhalla\src\main\webapp\
+
+[2020-09-04 19:13:00] 
+INFO: Report Center Config File: /WEB-INF/reportCenter.xml
+
+[2020-09-04 19:13:00] 
+INFO: get home path :
+
+[2020-09-04 19:13:00] 
+SEVERE: please config <home> tag in reportCenter.xml
+
+[2020-09-04 19:13:00] 
+DEBUG: center initialized
+
+[2020-09-04 19:13:00] 
+INFO: DL System initing......
+
+[2020-09-04 19:13:00] 
+INFO: DL System initialized......
+
+[2020-09-04 19:13:00] 
+INFO: Guide initing......
+
+[2020-09-04 19:13:00] 
+INFO: Guide initialized......

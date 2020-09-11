@@ -3,8 +3,6 @@ package com.iflytek.zhyl.valhalla.service;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.iflytek.medicalboot.core.exception.MedicalBusinessException;
 import com.iflytek.zhyl.valhalla.pojo.*;
-import com.iflytek.zhyl.valhalla.utils.Msg;
-import com.iflytek.zhyl.valhalla.utils.ResultUtils;
 import com.iflytek.zhyl.valhalla.utils.UUIDUtils;
 import com.raqsoft.report.ide.base.DataSource;
 import com.raqsoft.report.model.ReportDefine;
@@ -20,7 +18,6 @@ import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.*;
-
 import javax.servlet.ServletOutputStream;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -110,7 +107,7 @@ public class ReportService {
     @ApiOperation(value="获取报表HTML片段(POST)", notes="获取报表HTML片段(POST)")
     @SneakyThrows
     @PostMapping("/{version}/pt/html")
-    public String getHtml(@PathVariable String version, @RequestBody QueryDto queryDto) {
+    public String getHtml(@PathVariable String version, @RequestBody @Valid QueryDto queryDto) {
        return getHtmlReport(queryDto).generateHtml();
     }
 
@@ -132,29 +129,16 @@ public class ReportService {
         Boolean exportFormula = exportDto.getExportFormula();
         QueryDto queryDto = exportDto.getQueryDto();
 
-        if(fileType == null || fileType.trim() == ""){
+        if(fileType == null || fileType.trim().equals("")){
             throw new MedicalBusinessException("文件格式不允许空!");
-        }
-        if (fileName == null || fileName.trim() == ""){
-            throw new MedicalBusinessException("文件名不允许为空!");
         }
         if(queryDto == null){
             throw new MedicalBusinessException("查询参数不允许为空!");
         }
 
-        if(pageBroken == null){
-            pageBroken = false;
+        if(fileName == null || fileName == ""){
+            fileName = UUIDUtils.getUUID() + "." + fileType;
         }
-        if(graphicOut == null){
-            graphicOut = false;
-        }
-        if(exportFormula == null){
-            exportFormula = false;
-        }
-        if(dispRatio == null || dispRatio <= 1){
-            dispRatio = 100;
-        }
-
         IReport pageReport = getPage(queryDto);
         httpServletResponse.setContentType("application/x-download");
         httpServletResponse.addHeader("Content-Disposition", "attachment;filename=" + fileName);
@@ -187,18 +171,22 @@ public class ReportService {
     @SneakyThrows
     private ReportDefineProxy getTemplate(Long id){
         TemplateDto template = templateService.getOne(id);
+        ReportDefineProxy reportDefineProxy = new ReportDefineProxy();
+
         byte[] syntax = template.getSyntax();
         byte[] args = template.getArgs();
-        @Cleanup InputStream reportStream = new ByteArrayInputStream(syntax);
-        ReportDefine reportDefine = (ReportDefine) ReportUtils.read(reportStream);
-
-        @Cleanup InputStream argsStream = new ByteArrayInputStream(args);
-        ReportDefine argsDefine = (ReportDefine) ReportUtils.read(argsStream);
-
-        ReportDefineProxy reportDefineProxy = new ReportDefineProxy();
-        reportDefineProxy.setReportDefine(reportDefine);
-        reportDefineProxy.setParametersDefine(argsDefine);
-
+        if(syntax != null && syntax.length > 0) {
+            @Cleanup InputStream reportStream = new ByteArrayInputStream(syntax);
+            ReportDefine reportDefine = (ReportDefine) ReportUtils.read(reportStream);
+            reportDefineProxy.setReportDefine(reportDefine);
+        }else{
+            throw new MedicalBusinessException("报表定义文件还未上传！");
+        }
+        if(args != null && args.length > 0) {
+            @Cleanup InputStream argsStream = new ByteArrayInputStream(args);
+            ReportDefine argsDefine = (ReportDefine) ReportUtils.read(argsStream);
+            reportDefineProxy.setParametersDefine(argsDefine);
+        }
         return reportDefineProxy;
     }
 
@@ -299,16 +287,16 @@ public class ReportService {
         public static final byte PAGE_STYLE_SIZE  = PrintSetup.PAGER_SIZE;
 
         @ApiModelProperty(name = "pageStyle", value = "分页方式", dataType = "Byte", allowableValues = "0,1,2")
-        private Byte pageStyle ;
+        private Byte pageStyle = PrintSetup.PAGER_NONE;
 
         @ApiModelProperty(name = "paperWidth", value = "页面宽度", dataType = "Float")
-        private Float paperWidth;
+        private Float paperWidth = 210.0F;
 
         @ApiModelProperty(name = "paperHeight", value = "页面高度", dataType = "Float")
-        private Float paperHeight;
+        private Float paperHeight = 297.0F;
 
         @ApiModelProperty(name = "rowNumPerPage",  value = "每页行数", dataType = "Integer")
-        private Integer rowNumPerPage;
+        private Integer rowNumPerPage = 25;
 
         @ApiModelProperty(name = "currentPage", value = "翻页页码", dataType = "Integer")
         private Integer currentPage = 1;
@@ -321,6 +309,7 @@ public class ReportService {
     @Data
     @ApiModel("查询参数")
     public static class QueryDto{
+
         @NotNull(message = "模板标识不允许为空")
         @ApiModelProperty(name = "id", value = "模板标识", dataType = "Long")
         private Long id;
@@ -343,21 +332,20 @@ public class ReportService {
         @ApiModelProperty(name = "type", value = "导出文件类型", dataType = "String", allowableValues = "pdf,xls,xlsx,doc,txt")
         String fileType;
 
-        @NotNull
         @ApiModelProperty(name = "fileName", value = "导出文件名称", dataType = "String")
         String fileName;
 
         @ApiModelProperty(name = "dispRatio", value = "导出文件缩放比例(默认100)",dataType = "Integer")
-        Integer dispRatio;
+        Integer dispRatio = 133;
 
         @ApiModelProperty(name = "pageBroken", value = "是否分页", dataType = "Boolean")
-        Boolean pageBroken;
+        Boolean pageBroken = false;
 
         @ApiModelProperty(name = "exportFormula", value = "是否输出公式", dataType = "Boolean")
-        Boolean exportFormula;
+        Boolean exportFormula = true;
 
         @ApiModelProperty(name = "graphicOut", value = "是否输出图片", dataType = "Boolean")
-        Boolean graphicOut;
+        Boolean graphicOut = true;
 
         @ApiModelProperty(name = "queryDto", value = "查询参数", dataType = "com.iflytek.zhyl.valhalla.service.QueryDto")
         QueryDto queryDto;

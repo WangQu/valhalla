@@ -1,5 +1,7 @@
 server:
-  port: 6666
+  port: 9420
+  servlet:
+    context-path: /valhalla
 
 spring:
   application:
@@ -9,6 +11,10 @@ spring:
     url: jdbc:postgresql://172.31.129.19:5432/valhalla
     username: cbb
     password: 123456
+
+medicalboot:
+  batchid:
+    workId: 9420
 
 jetcache:
   statIntervalMinutes: 15
@@ -25,4 +31,4 @@ logging:
   file:
     name: ${spring.application.name}.log
 
-raqsoft-config-file: D:\dev\valhalla\src\main\resources\raqsoftConfig.xml
+raqsoft-config-file: 'D:\dev\valhalla\src\main\resources\raqsoftConfig.xml'

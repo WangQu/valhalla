@@ -55,7 +55,7 @@ public class DataSourceService {
     @Transactional(rollbackFor = Exception.class)
     @ApiOperation(value = "新增数据源信息")
     @PostMapping("/{version}/pt/TbDatasource")
-    public Long postOne(@RequestBody TbDatasource datasource) throws Exception {
+    public Long postOne(@PathVariable String version, @RequestBody TbDatasource datasource) throws Exception {
         log.info("开始新增数据源信息，信息:[{}]",datasource);
 
         this.checkRequiredFields(datasource);
@@ -133,7 +133,7 @@ public class DataSourceService {
 
     @ApiOperation(value = "查询数据源详细信息")
     @GetMapping("/{version}/pt/TbDatasource/getOneByName/{name}")
-    public DatasourceDto getOneByName(@PathVariable String name){
+    public DatasourceDto getOneByName(@PathVariable String version, @PathVariable String name){
         log.info("开始查询数据源详细信息，名称：[{}]", name);
         DatasourceDto resource = queryFactory.select(DatasourceDto.Q_BEAN)
                 .from(qTbDatasource)
@@ -147,7 +147,7 @@ public class DataSourceService {
     @ApiOperation(value = "修改数据源")
     @PutMapping("/{version}/pt/TbDatasource/{id}")
     @CacheUpdate(name = "datasourceCache_", key = "#id", value = "datasource")
-    public long putOne(@PathVariable Long id, @RequestBody TbDatasource datasource) throws Exception {
+    public long putOne(@PathVariable String version, @PathVariable Long id, @RequestBody TbDatasource datasource) throws Exception {
         log.info("开始修改数据源，信息：[{}]", datasource);
         this.checkRequiredFields(datasource);
         this.checkDuplicate(datasource, id);
@@ -170,7 +170,7 @@ public class DataSourceService {
     @ApiOperation(value = "删除数据源")
     @DeleteMapping("/{version}/pt/TbDatasource/{id}")
     @CacheInvalidate(name = "datasourceCache_",key = "#id")
-    public long deleteOne(@PathVariable Long id) {
+    public long deleteOne(@PathVariable String version, @PathVariable Long id) {
         log.info("开始删除报表 [{}]", id);
 
         this.checkDelete(id);

@@ -510,7 +510,7 @@
                     <customTypes>
                         <customType>com.querydsl.sql.types.UtilDateType</customType>
                     </customTypes>
-                    <tableNamePattern>tb_datasource,tb_report,tb_template</tableNamePattern>
+                    <tableNamePattern>tb_datasource,tb_report,tb_template,tb_temporary</tableNamePattern>
                     <packageName>com.iflytek.zhyl.valhalla.entity</packageName>
                     <exportBeans>true</exportBeans>
                     <beanInterfaces>java.io.Serializable</beanInterfaces>
@@ -564,4 +564,14 @@
             </resource>
         </resources>
     </build>
+
+    <repositories>
+        <repository>
+            <id>alimaven</id>
+            <name>aliyun maven</name>
+            <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+            <layout>default</layout>
+        </repository>
+    </repositories>
+
 </project>
